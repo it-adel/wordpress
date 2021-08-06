@@ -1,0 +1,113 @@
+.redux-sidebar .redux-group-tab-link-a i{
+    vertical-align: middle;
+    font-size: 14px;
+    position: absolute;
+    line-height: 18px;
+}
+#redux-header .rAds{ display: none !important;}
+.redux-main .redux-field-info {
+    background-color: #23282d;
+}
+.redux-main .redux-field-info h3 {
+    color:#ffffff;
+    margin-bottom: 0;
+}
+.wp-picker-container, .wp-picker-container:active{
+    display: inline-block;
+}
+#learn-press-add-ons-wrap{
+    display: none;
+}
+.redux-main .redux-field-info .redux-info-desc{
+    color: #fff;
+}
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a, .wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a,.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections a, .wp-customizer .redux-sidebar .redux-group-menu li.active.hasSubSections a{
+    background: #ec910e;
+}
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a:hover, .admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a:hover, .wp-customizer .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a:hover, .wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a:hover{
+    color: #ec910e;
+}
+.admin-color-fresh #redux-header, .wp-customizer #redux-header{
+    border-color: #ec910e;
+}
+.admin-color-fresh .redux-container-switch .cb-enable.selected, .admin-color-fresh .redux-field-container .ui-buttonset .ui-state-active, .wp-customizer .redux-container-switch .cb-enable.selected, .wp-customizer .redux-field-container .ui-buttonset .ui-state-active{
+    background-image: -webkit-linear-gradient(top, #ff9d0f, #d07b00) !important;
+    border-color: #ec910e !important;
+    -webkit-box-shadow: none !important;
+}
+.wp-core-ui .button-primary{
+    background: #e48a07;
+    border-color: #fb9503 #ec910e #ec910e;
+    box-shadow: 0 1px 0 #ec910e;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #ec910e, 1px 0 1px #ec910e, 0 1px 1px #ec910e, -1px 0 1px #ec910e;
+}
+.wp-core-ui .button-primary:hover{
+    background: #ec9b27;
+    border-color: #ec910e;
+}
+.admin-color-fresh .redux-container-image_select .redux-image-select-selected img, .wp-customizer .redux-container-image_select .redux-image-select-selected img{
+    border-color: #ec910e;
+}
+.redux-container-image_select .redux-image-select .tiles, .redux-container-image_select .redux-image-select img, .redux-container-image_select .redux-image-select-selected .tiles, .redux-container-image_select .redux-image-select-selected img{
+    border-style: double;
+    margin: 3px;
+}
+.wp-core-ui .button-primary-disabled, .wp-core-ui .button-primary.disabled, .wp-core-ui .button-primary:disabled, .wp-core-ui .button-primary[disabled]{
+    background: #ec910e!important;
+    border-color: #ec910e!important;
+    box-shadow: none!important;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.1)!important;
+    cursor: default;
+    color: #fff!important;
+}
+.wp-core-ui .button.button-primary.button-hero {
+    box-shadow: 0 2px 0 #ec910e;
+}
+.wp-core-ui .button-primary.active, .wp-core-ui .button-primary.active:focus, .wp-core-ui .button-primary.active:hover, .wp-core-ui .button-primary:active{
+    box-shadow: inset 0 2px 0 #ec910e;
+}
+.redux-main .form-table .screenshot{
+    display: block;
+}
+.redux-main .form-table .redux-option-image{
+    max-width: 100%;
+}
+.jrb-required .jrb-item{
+	font-size: 0;
+	letter-spacing: 0;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #eeeeee;
+}
+.jrb-required .jrb-item:last-child{
+	border-bottom: none;
+}
+.jrb-required .jrb-item .jrb-name{
+	font-size: 13px;
+	font-weight: 600;
+	width: 30%;
+	display: inline-block;
+	vertical-align: middle;
+}
+.jrb-required .jrb-item .jrb-content{
+	font-size: 13px;
+	width: 70%;
+	display: inline-block;
+	vertical-align: middle;
+}
+.jrb-required .jrb-item .jrb-content .bt-desc{
+	font-style: italic;
+}
+.jrb-required .jrb-item .jrb-content .bt-title .bt-yes-icon,
+.jrb-required .jrb-item .jrb-content .bt-desc{
+	color: green;
+}
+.jrb-required .jrb-item .jrb-content .bt-title .bt-no-icon,
+.jrb-required .jrb-item .jrb-content .bt-desc .bt-error-message{
+	color: red;
+}
+.display_header .redux-dev-mode-notice-container{
+    display: none;
+}
